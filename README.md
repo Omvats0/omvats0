@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **HTML , CSS , JAVA , Python**
+- 🌱 I’m currently learning **HTML,CSS,SQL,PowerBI,Tableu,Excel,Python,Machine Learning,Deep Learning**
 
-- 💬 Ask me about **HTML , CSS , JAVA , Python**
+- 💬 Ask me about **HTML , CSS ,SQL,PowerBI,Tableu,Excel,Python**
 
-- 📫 How to reach me **omvats1010@gmail.com**
+- 📫 How to reach me **oms87742@gmail.com**
 
 - ⚡ Fun fact **I am a Good Person !**
 
