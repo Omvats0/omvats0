@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="powerbi" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
